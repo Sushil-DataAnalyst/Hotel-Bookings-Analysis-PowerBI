@@ -5,6 +5,8 @@ An end-to end data analysis project using SQL and Power BI to analysis hotel boo
 ## 📌 Project Overview
 Is project ka main objective hotel booking data ko analyze karke business insights nikalna hai. Maine isme **SQL** aur **Power BI** ka use karke cancellations, revenue trends, aur customer behavior par focus kiya hai taaki hotel management apne revenue loss ko kam kar sake.
 
+![Hotel Booking Dashboard](Hotel%20Bookings.png)
+
 ## 🛠️ Tech Stack Used
 * **Database:** SQL (Data Cleaning aur Extraction ke liye)
 * **Visualization Tool:** Power BI (Interactive Dashboards ke liye)
